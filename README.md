@@ -25,7 +25,7 @@ Olilitha Adam created the Settings and Account Setting page. She later added som
 Main launch screen, login screen, and the registration screen, and generated the APK. She made the final
 touches of the code to ensure that everything works as it should.
 
-Avuyile Dumezweni created the Rewards page and assisted with the category functionality. She ensured that
+Avuyile Dumezweni created the Rewards page and the category page and it's functionality. She ensured that
 the Rewards page and the gamification was fully functional and integrated well with the rest of the
 application. She worked on the documentation as well as the improvements based on the feedback received
 from the lecturer. The Gantt Chart responsibility was tasked to her.
@@ -43,3 +43,4 @@ to provide a financial report for the user in the form of a Pie Chart.
 
 Improvements have been documented in a word document which will be submitted alongside a presentation video
 and an APK for BloomBudget.
+

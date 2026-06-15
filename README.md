@@ -41,6 +41,7 @@ focus. She contributed the documentation as well. She ensured that the statistic
 correctly integrated with the categories as it relies on the added expenses and corresponding categories 
 to provide a financial report for the user in the form of a Pie Chart.
 
+
 Improvements have been documented in a word document which will be submitted alongside a presentation video
-and an APK for BloomBudget.
+and an APK for BloomBudget. The files can be accessed here on Github on the commits.
 

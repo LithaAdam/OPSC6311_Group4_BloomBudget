@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">BloomBudget</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_expenses">Expenses</string>
+    <string name="title_rewards">Rewards</string>
+    <string name="title_settings">Settings</string>
+    <string name="spending_summary">Spending Summary</string>
+    <string name="title_categories">Categories</string>
+    <string name="label_points">Points</string>
+    <string name="label_achievements">Achievements</string>
+    <string name="label_your_points">Your Points</string>
+    <string name="label_view_details">View Details</string>
+    <string name="label_add_category">+ Add Category</string>
+    <string name="title_budget_master">Budget Master</string>
+    <string name="desc_budget_master">Stay within your budget</string>
+    <string name="title_streak_saver">7 Day Streak Saver</string>
+    <string name="desc_streak_saver">Save for 7 days</string>
+    <string name="title_tax_deduction">Expense Tax deduction</string>
+    <string name="desc_tax_deduction">Track over 100 expenses</string>
+    <string name="hint_category_name">Category Name</string>
+    <string name="hint_monthly_budget">Monthly Budget (R)</string>
+    <string name="about_description">About BloomBudget\n\nBloomBudget is a smart expense tracker that gamifies saving money. Earn points and achievements as you build better financial habits.\n\nFeatures:\n• Expense Tracking\n• Budget Planning\n• Reward System\n• Statistics and Reports\n\nQuestions or Feedback? Contact us at support@bloombudget.com</string>
+    <string name="hi_user">Hi, User 👋</string>
+    <string name="format_hi_user">Hi, %1$s 👋</string>
+    <string name="dashboard_subtitle">Let\'s make useful choices today!</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="monthly_budget_progress">Monthly Budget Progress</string>
+    <string name="label_add_expense">+ Add Expense</string>
+    <string name="label_recent_expenses">Recent Expenses</string>
+    <string name="label_see_all">See All</string>
+    <string name="label_food">Food</string>
+    <string name="label_transport">Transport</string>
+    <string name="label_shopping">Shopping</string>
+    <string name="label_entertainment">Entertainment</string>
+    <string name="budget_prefix">Budget: </string>
+    <string name="pts_suffix"> pts</string>
+    <string name="edit">edit</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="login_prompt">Already have an account? Login</string>
+    <string name="track_your_money">Track your money. Grow your future.</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Secure your financial future</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="register_prompt">Don\'t have an account? Register</string>
+    <string name="welcome_to_bloombudget">Welcome TO BloomBudget</string>
+    <string name="hint_name">Name:</string>
+    <string name="hint_surname">Surname:</string>
+    <string name="hint_username">Username:</string>
+    <string name="btn_register">Register</string>
+    <string name="have_account_login">Have an account? Login</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_dob">Date of Birth</string>
+    <string name="label_capture">Capture</string>
+    <!-- Settings Activity Strings -->
+    <string name="default_avatar_letter">O</string>
+    <string name="default_user_name">User Name</string>
+    <string name="default_user_email">user@example.com</string>
+    <string name="label_currency">Currency</string>
+    <string name="val_currency">R (ZAR)</string>
+    <string name="label_notifications">Notifications</string>
+    <string name="label_dark_mode">Dark Mode</string>
+    <string name="label_about">About BloomBudget</string>
+    <string name="label_sign_out">Sign Out</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="msg_sign_out_confirm">Are you sure you want to sign out?</string>
+
+    <string name="placeholder_balance">R0.00</string>
+
+    <string name="placeholder_percentage">0%</string>
+
+    <string name="placeholder_budget_ratio">R0 / R0</string>
+
+    <string name="format_budget_ratio">R %1$.0f / R %2$.0f</string>
+
+    <string name="label_total_spent">Total Spent</string>
+
+    <string name="label_current_month">Current Month</string>
+
+    <string name="label_current_date">Current Date</string>
+
+    <string name="title_account_settings">Account Settings</string>
+
+    <string name="label_full_name">User Full Name</string>
+
+    <string name="label_first_name">First name</string>
+
+    <string name="label_last_name">Last name</string>
+
+    <string name="placeholder_first_name">First Name</string>
+
+    <string name="placeholder_last_name">Last Name</string>
+
+    <string name="placeholder_email">email@example.com</string>
+
+    <string name="placeholder_initial">U</string>
+
+    <string name="label_plus_30_pts">+30 pts</string>
+
+    <string name="placeholder_points">0</string>
+
+    <string name="error_invalid_input">Please fill in all fields correctly</string>
+
+    <string name="msg_transaction_added">Transaction added successfully</string>
+
+    <string name="msg_category_added">Category added successfully</string>
+
+    <string name="error_registered_email">Please enter the registered email</string>
+
+    <string name="format_amount_positive">R %1$.2f</string>
+
+    <string name="format_amount_negative">- R %1$.2f</string>
+
+    <string name="format_percentage">%1$.0f%%</string>
+
+    <string name="format_level">Level %1$d</string>
+
+    <string name="label_unlocked">Unlocked</string>
+
+    <string name="label_locked">Locked</string>
+
+    <!-- New Features -->
+    <string name="label_budget_period">Budget Period</string>
+    <string name="period_weekly">Weekly</string>
+    <string name="period_monthly">Monthly</string>
+    <string name="title_savings_goals">Savings Goals</string>
+    <string name="label_target">Target: </string>
+    <string name="label_current">Current: </string>
+    <string name="title_ai_alerts">Predictive AI Alerts</string>
+    <string name="alert_overspending_risk">Overspending Risk!</string>
+    <string name="msg_ai_alert_high_spending">You are spending faster than usual. You might exceed your budget in %1$d days.</string>
+    <string name="label_email">Email</string>
+    <string name="label_add_goal">+ Add Goal</string>
+    <string name="label_new_car">New Car</string>
+    <string name="placeholder_goal_amount">R 0 / R 0</string>
+    <string name="format_goal_amount">R %1$.0f / R %2$.0f</string>
+    <string name="hint_goal_title">Goal Title (e.g. New Car)</string>
+    <string name="hint_target_amount">Target Amount</string>
+
+    <string name="msg_registration_success">Registration Successful. Please Login.</string>
+    <string name="error_fix_errors">Please fix the errors</string>
+    <string name="error_fill_name">Please fill in your name</string>
+    <string name="error_name_letters">Name can only contain letters</string>
+    <string name="error_fill_surname">Please enter your surname</string>
+    <string name="error_surname_letters">Surname can only contain letters</string>
+    <string name="error_fill_email">Please enter your email</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_fill_password">Please enter your password</string>
+    <string name="error_password_rules">Password must be at least 8 characters, contain a capital letter, small letter, and a digit.</string>
+    <string name="error_fill_address">Please enter your address</string>
+    <string name="error_fill_dob">Please select your date of birth</string>
+    <string name="error_fill_all">Please fill in all fields</string>
+    <string name="error_invalid_credentials">Invalid email or password</string>
+    <string name="label_add">Add</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="title_add_transaction">Add Transaction</string>
+    <string name="msg_image_captured">Image Captured and Stored!</string>
+    <string name="example_name">Example: Olilitha</string>
+    <string name="example_surname">Example: Adam</string>
+    <string name="example_email">Example: olilithaAdam@gmail.com</string>
+    <string name="example_address">Example: 123 Main Street, Gqeberha</string>
+</resources>

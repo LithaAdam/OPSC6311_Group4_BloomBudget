@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is a simplified mockup of a donut chart using a ring shape -->
+    <item>
+        <shape android:shape="ring"
+            android:innerRadius="60dp"
+            android:thickness="30dp"
+            android:useLevel="false">
+            <solid android:color="#FF6B97" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base Gray Circle -->
+    <item>
+        <shape android:shape="ring"
+            android:innerRadius="70dp"
+            android:thickness="15dp"
+            android:useLevel="false">
+            <solid android:color="#E0E0E0" />
+        </shape>
+    </item>
+    <!-- Segment 1: Blue -->
+    <item>
+        <rotate
+            android:fromDegrees="-90"
+            android:toDegrees="-90">
+            <shape android:shape="ring"
+                android:innerRadius="70dp"
+                android:thickness="15dp"
+                android:useLevel="true">
+                <solid android:color="#4A90E2" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>
